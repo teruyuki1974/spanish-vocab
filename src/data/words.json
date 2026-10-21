@@ -1,0 +1,146 @@
+[
+  {
+    "id": "w001",
+    "spanish": "tiempo",
+    "chunk": "¿Tienes tiempo hoy?",
+    "japanese": "今日は時間がある？"
+  },
+  {
+    "id": "w002",
+    "spanish": "casa",
+    "chunk": "Esta es mi casa.",
+    "japanese": "これが私の家です。"
+  },
+  {
+    "id": "w003",
+    "spanish": "agua",
+    "chunk": "Quiero un vaso de agua.",
+    "japanese": "水を一杯ください。"
+  },
+  {
+    "id": "w004",
+    "spanish": "amigo",
+    "chunk": "Él es mi mejor amigo.",
+    "japanese": "彼は私の親友です。"
+  },
+  {
+    "id": "w005",
+    "spanish": "trabajo",
+    "chunk": "Hoy tengo mucho trabajo.",
+    "japanese": "今日は仕事がたくさんあります。"
+  },
+  {
+    "id": "w006",
+    "spanish": "comida",
+    "chunk": "La comida está rica.",
+    "japanese": "食事はおいしいです。"
+  },
+  {
+    "id": "w007",
+    "spanish": "ciudad",
+    "chunk": "Vivo en esta ciudad.",
+    "japanese": "この街に住んでいます。"
+  },
+  {
+    "id": "w008",
+    "spanish": "libro",
+    "chunk": "Estoy leyendo un libro.",
+    "japanese": "本を読んでいます。"
+  },
+  {
+    "id": "w009",
+    "spanish": "mañana",
+    "chunk": "Hasta mañana.",
+    "japanese": "また明日。"
+  },
+  {
+    "id": "w010",
+    "spanish": "noche",
+    "chunk": "Esta noche salgo.",
+    "japanese": "今夜出かけます。"
+  },
+  {
+    "id": "w011",
+    "spanish": "familia",
+    "chunk": "Mi familia vive lejos.",
+    "japanese": "私の家族は遠くに住んでいます。"
+  },
+  {
+    "id": "w012",
+    "spanish": "escuela",
+    "chunk": "Voy a la escuela.",
+    "japanese": "学校へ行きます。"
+  },
+  {
+    "id": "w013",
+    "spanish": "niño",
+    "chunk": "El niño está contento.",
+    "japanese": "その男の子は嬉しそうです。"
+  },
+  {
+    "id": "w014",
+    "spanish": "dinero",
+    "chunk": "No llevo dinero.",
+    "japanese": "お金を持っていません。"
+  },
+  {
+    "id": "w015",
+    "spanish": "puerta",
+    "chunk": "Cierra la puerta, por favor.",
+    "japanese": "ドアを閉めてください。"
+  },
+  {
+    "id": "w016",
+    "spanish": "calle",
+    "chunk": "Cruzamos la calle.",
+    "japanese": "通りを渡ります。"
+  },
+  {
+    "id": "w017",
+    "spanish": "pregunta",
+    "chunk": "Tengo una pregunta.",
+    "japanese": "質問があります。"
+  },
+  {
+    "id": "w018",
+    "spanish": "respuesta",
+    "chunk": "Esa es la respuesta.",
+    "japanese": "それが答えです。"
+  },
+  {
+    "id": "w019",
+    "spanish": "viaje",
+    "chunk": "El viaje fue largo.",
+    "japanese": "旅は長かったです。"
+  },
+  {
+    "id": "w020",
+    "spanish": "idea",
+    "chunk": "Es una buena idea.",
+    "japanese": "それはいい考えです。"
+  },
+  {
+    "id": "w021",
+    "spanish": "problema",
+    "chunk": "Tenemos un problema.",
+    "japanese": "問題があります。"
+  },
+  {
+    "id": "w022",
+    "spanish": "ayuda",
+    "chunk": "Necesito tu ayuda.",
+    "japanese": "あなたの助けが必要です。"
+  },
+  {
+    "id": "w023",
+    "spanish": "nombre",
+    "chunk": "¿Cuál es tu nombre?",
+    "japanese": "あなたの名前は何ですか。"
+  },
+  {
+    "id": "w024",
+    "spanish": "año",
+    "chunk": "El año que viene.",
+    "japanese": "来年です。"
+  }
+]
