@@ -206,7 +206,7 @@ test("見本のチャンクは単語を含み、IDは重複しない", () => {
     chunk: string;
     japanese: string;
   }[];
-  assert.ok(words.length > 20);
+  assert.equal(words.length, 3500);
   const ids = new Set<string>();
   for (const word of words) {
     assert.equal(ids.has(word.id), false);
